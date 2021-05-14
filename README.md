@@ -1,2 +1,2 @@
-# tr_nk_repair
+# NK_REPAİR
 Script bana ait değildir. Sadece Türkçeleştirdim.
